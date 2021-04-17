@@ -1,6 +1,6 @@
-angular-v10-full-features 
-**Código atualizado para Angular v10**
+angular-v10-full-features\ 
 =================
+**Código atualizado para Angular v10**\ 
 
 ### Lista das aulas
 
